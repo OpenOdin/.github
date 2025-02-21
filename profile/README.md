@@ -14,7 +14,7 @@ The house of the open source database built for interoperable applications.
 
 ## Start here
 
-- [OpenOdin core](https://github.com/OpenOdin/openodin): the open source database built for interoperable applications
+- [OpenOdin](https://github.com/OpenOdin/openodin): the open source database built for interoperable applications
 - [OpenOdin server](https://github.com/OpenOdin/server): sample configuration to run a general OpenOdin Server
 - [OpenOdin Anvil](https://github.com/OpenOdin/anvil): the data explorer for OpenOdin databases and applications
 - [OpenOdin data wallet](https://github.com/OpenOdin/datawallet): the official data wallet browser extension
